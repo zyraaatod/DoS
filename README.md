@@ -17,7 +17,7 @@
 S  T  O  R  M     V 6.5.7
 ```
 
-**"TIDAK CUKUP HACK — HARUS HANCURKAN."**
+**"TIDAK CUKUP LIHAT — HARUS HANCURKAN."**
 *The most advanced digital siege engine for the next century.*
 
 [ ⚡ [ATTACK VECTORS](#-tactical-arsenal) ] • [ 🛠️ [DEPLOYMENT](#-installation) ] • [ 🎮 [INTERFACE](#-control-interface) ]
